@@ -1,6 +1,6 @@
 .chatbot-container {
     width: 300px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     padding: 10px;
     border-radius: 5px;
     margin: auto;
@@ -10,7 +10,7 @@
   .chat-window {
     height: 400px;
     overflow-y: scroll;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     padding: 10px;
     margin-bottom: 10px;
   }
