@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-import Chat from './Pages/chat';
+import Chat from '../Pages/chat';
 
 
 function App() {
