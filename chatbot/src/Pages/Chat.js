@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { getMessages, sendMessage } from './API/api';
+import { getMessages, sendMessage } from '../API/API';
 
 const Chat = ({ senderId, receiverId }) => {
   const [messages, setMessages] = useState([]);
